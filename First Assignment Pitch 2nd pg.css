@@ -1,0 +1,40 @@
+body, html {
+  height: 100%;
+}
+
+body {
+ text-align: center;
+
+ background-color: #98C5B3 ;
+ color: 
+ font-family:Ariel;
+ 
+ font-size:150%;
+ 
+ 
+}
+
+.tips {
+	color:black   ;
+	font-family:Ariel;
+	text-align: left;
+	margin-left: 470px;
+	}
+
+.TXT {
+font-size:80%;
+ text-align: left;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("Pitch4.PNG");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
